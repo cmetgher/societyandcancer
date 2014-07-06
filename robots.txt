@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cmetgher.github.io//github/sitemap.xml 
